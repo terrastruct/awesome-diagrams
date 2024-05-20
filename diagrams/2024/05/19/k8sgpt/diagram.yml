@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: K8sGPT Operator Architecture
+images:
+  - 1.png
+attribution: https://docs.k8sgpt.ai/reference/operator/overview/
+tags:
+  - kubernetes
+  - excalidraw
+# Optional
+author: Anais Urlichs
+description: |
+  K8sGPT can run as a Kubernetes Operator inside the cluster. The scan results are provided as Kubernetes YAML manifests.

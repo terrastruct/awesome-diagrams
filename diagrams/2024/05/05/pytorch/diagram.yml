@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Pytorch architecture
+images:
+  - 1.png
+attribution: https://pytorch.org/executorch/stable/getting-started-architecture
+tags:
+  - pytorch
+  - python
+# Optional
+author: Martin Yuan
+description: |
+  There are three phases to deploy a PyTorch model to on-device: program preparation, runtime preparation, and program execution, as shown in the diagram below, with a number of user entry points.

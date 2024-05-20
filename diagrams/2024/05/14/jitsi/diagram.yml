@@ -1,0 +1,19 @@
+schema-version: 0.1
+# Required
+name: Jitsi Meet architecture
+images:
+  - 1.png
+attribution: https://jitsi.github.io/handbook/docs/architecture/
+tags:
+  - streaming
+# Optional
+author: Kylian Kropf
+description: |
+  The individual connections between the previously described components, as
+  well as their external integrations are described in the figure below.
+
+  The external connections can be categorized into two main groups. Firstly,
+  the connections between clients that request a video or audio connection are
+  performed through remote requests and data streams. The second category of
+  external connections is those to external services that help store
+  recordings, stream recordings, stream videos, or help with creating meetings.

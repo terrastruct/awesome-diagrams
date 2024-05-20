@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: ActiveMQ Classic architecture
+images:
+  - 1.avif
+attribution: https://www.datadoghq.com/blog/activemq-architecture-and-metrics/
+tags:
+  - message-queue
+  - activemq
+# Optional
+author: David M. Lentz
+description: |
+  ActiveMQ sends messages between client applications—producers, which create messages and submit them for delivery, and consumers, which receive and process messages. The ActiveMQ broker routes each message through a messaging endpoint called a destination (in ActiveMQ Classic) or an address (in Artemis). Both ActiveMQ versions are capable of point-to-point messaging—in which the broker routes each message to one of the available consumers in a round-robin pattern—and publish/subscribe (or “pub/sub”) messaging—in which the broker delivers each message to every consumer that is subscribed to the topic (in ActiveMQ Classic) or address (in ActiveMQ Artemis).

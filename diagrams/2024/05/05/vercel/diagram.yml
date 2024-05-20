@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Vercel deployment and lifecycle
+images:
+  - 1.avif
+attribution: https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure
+tags:
+  - vercel
+  - deployment
+# Optional
+author: Lydia Hallie
+description: |
+  Deployments start with code written in one of the over 35 frameworks supported by Vercel, or by using the Build Output API. Deployments can be created through the Vercel CLI or by pushing code to your git repository. The Vercel Git integration automatically listens for your commit and triggers a new deployment.

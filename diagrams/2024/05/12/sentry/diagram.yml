@@ -1,0 +1,14 @@
+schema-version: 0.1
+# Required
+name: Sentry architecture
+images:
+  - 1.svg
+attribution: https://develop.sentry.dev/architecture/
+tags:
+  - sentry
+  - monitoring
+  - mermaid
+# Optional
+author: David Cramer
+description: |
+  Edges represent service dependencies.

@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: MongoDB's Application data platform
+images:
+  - 1.png
+attribution: https://www.mongodb.com/collateral/mongodb-architecture-guide
+tags:
+  - mongodb
+  - database
+# Optional
+author:
+description: |
+  Building on MongoDB’s document data model, expressive Query API, and distributed systems DNA, the MongoDB Atlas application data platform delivers a cohesive and integrated set of data and database services. Atlas streamlines how teams work with data, specifically in the context of building software and systems that deliver real-time experiences to both end customers and internal users

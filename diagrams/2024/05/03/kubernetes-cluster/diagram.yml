@@ -1,0 +1,11 @@
+schema-version: 0.1
+# Required
+name: Kubernetes cluster architecture
+images:
+  - 1.svg
+attribution: https://kubernetes.io/docs/concepts/architecture/
+tags:
+  - kubernetes
+# Optional
+author: Utkarsh Singh
+description: Kubernetes cluster architecture

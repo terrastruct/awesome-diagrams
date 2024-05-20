@@ -1,0 +1,11 @@
+schema-version: 0.1
+# Required
+name: Strapi Architecture
+images:
+  - 1.png
+attribution: https://strapi.io/blog/strapi-architecture
+tags:
+  - cms
+# Optional
+author: Hana Khelifa
+description: Strapi's architecture is decomposed into several independent but interconnected services. At its core, Strapi is built on a modern JavaScript stack, leveraging Node.js, Koa, and React, among other technologies. It also operates on a modular architecture that houses various registries, a dynamic plugin system, and an extensible API framework.

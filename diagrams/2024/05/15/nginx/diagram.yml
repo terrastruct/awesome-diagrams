@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: NGINX Management Suite
+images:
+  - 1.png
+attribution: https://docs.nginx.com/nginx-management-suite/acm/about/architecture/
+tags:
+  - web-server
+# Optional
+author:
+description: |
+  An overview of the NGINX Management Suite API Connectivity Manager architecture and personas.

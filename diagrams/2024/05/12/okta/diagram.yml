@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Okta IAM architecture
+images:
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+attribution: https://www.okta.com/resources/whitepaper/iam-architecture/
+tags:
+  - firebase
+  - auth
+# Optional
+author:
+description: |
+  Enterprises use portals to manage access to web applications that serve customers and partners. Administrators often create these portals by assembling multiple behind-the-scenes web applications and services to form a complete solution.
+
+  With Okta, organizations can quickly and easily automate all portal user management functionality and provide customers and partners with a seamless experience, all with a 100-percent ondemand, secure, highly available service.

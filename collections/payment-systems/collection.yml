@@ -1,0 +1,9 @@
+schema-version: 0.1
+name: Payment systems
+diagrams:
+  - 2024/05/08/adyen-payment-lifecycle
+  - 2024/05/08/mastercard-processing
+  - 2024/05/08/brex-cash-infrastructure
+banner:
+  image: 1.svg
+  background-color: '#EFFCED'

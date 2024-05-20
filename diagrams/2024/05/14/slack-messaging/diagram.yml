@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Slack real-time messaging
+images:
+  - 1.webp
+  - 2.webp
+  - 3.webp
+attribution: https://slack.engineering/real-time-messaging/
+tags:
+  - websocket
+# Optional
+author: Sameera Thangudu
+description: |
+  Every Slack client has a persistent websocket connection to Slack’s servers to receive real-time events to maintain its state.
+
+  Once the websocket is set up, as discussed above, the client hits our Webapp API to send a message. Webapp then sends that message to AS. AS looks at the channel ID in this message, discovers CS through a consistent hash ring, and routes the message to the appropriate CS that hosts the real time messaging for this channel. When CS receives the message for that channel, it sends out the message to every GS across the world that is subscribed to that channel. Each GS that receives that message sends it to every connected client subscribed to that channel id.
+
+  Aside from chat messages, there is another special kind of message called an event. An event is any update a client receives in real time that changes the state of the client. There are hundreds of different types of events that flow across our servers. Some examples include when a user sends a reaction to a message, a bookmark is added, or a member joins a channel. These events follow a similar journey to the simple chat message shown above.

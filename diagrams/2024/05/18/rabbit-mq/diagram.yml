@@ -1,0 +1,16 @@
+schema-version: 0.1
+# Required
+name: RabbitMQ architecture
+images:
+  - 1.png
+attribution: https://www.researchgate.net/publication/347866161_A_Fair_Comparison_of_Message_Queuing_Systems
+tags:
+  - message-queue
+# Optional
+author: Guo Fu
+description: |
+  In a RabbitMQ cluster, there can be two type of nodes,memory node and disk
+  node. There is at least one disk nodein the cluster, on which conﬁguration
+  information and meta-information are stored. It should be noted that
+  RabbitMQ’sarchitecture has poor scalability due to the complete replica-tion
+  design.

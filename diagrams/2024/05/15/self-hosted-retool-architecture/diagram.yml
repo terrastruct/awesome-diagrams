@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: Self-hosted Retool architecture
+images:
+  - 1.png
+attribution: https://docs.retool.com/self-hosted/concepts/architecture
+tags:
+  - deployment
+# Optional
+author:
+description: |
+  Organizations that have on-premise requirements can deploy the Retool platform on their own infrastructure. Each deployment instance uses a distributed set of containers with services for different functions.

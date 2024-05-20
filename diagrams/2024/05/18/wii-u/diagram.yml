@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Wii U architecture
+images:
+  - 1.png
+  - 2.png
+attribution: https://www.copetti.org/writings/consoles/wiiu/
+tags:
+  - scala
+  - lucidchart
+# Optional
+author: Rodrigo Copetti
+description: |
+  The internal architecture of the GamePad.
+
+  Overview of the GamePad-Wii U connection.
+
+  Memory layout of general-purpose memory (in ‘Wii U’ mode).

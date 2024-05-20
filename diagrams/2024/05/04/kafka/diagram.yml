@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: Kafka Streams
+images:
+  - 1.jpg
+attribution: https://kafka.apache.org/37/documentation/streams/architecture
+tags:
+  - kafka
+# Optional
+author:
+description: |
+  Kafka Streams simplifies application development by building on the Kafka producer and consumer libraries and leveraging the native capabilities of Kafka to offer data parallelism, distributed coordination, fault tolerance, and operational simplicity.

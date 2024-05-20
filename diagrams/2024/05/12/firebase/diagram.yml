@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: Firebase architecture
+images:
+  - 1.png
+attribution: https://firebase.google.com/docs/cloud-messaging/fcm-architecture
+tags:
+  - firebase
+# Optional
+author:
+description: |
+  FCM relies on the following set of components that build, transport, and receive messages

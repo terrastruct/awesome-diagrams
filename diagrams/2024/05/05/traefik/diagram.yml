@@ -1,0 +1,14 @@
+schema-version: 0.1
+# Required
+name: Traefik Enterprise architecture
+images:
+  - 1.webp
+attribution: https://doc.traefik.io/traefik-enterprise/concepts/
+tags:
+  - traefik
+  - networking
+  - golang
+# Optional
+author:
+description: |
+  Traefik Enterprise's architecture consists of nodes spread into two different planes: the control plane and the data plane. The notions of control plane and data plane are well-known patterns and are not specific to Traefik Enterprise.

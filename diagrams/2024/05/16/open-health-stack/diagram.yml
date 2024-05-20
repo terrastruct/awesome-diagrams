@@ -1,0 +1,23 @@
+schema-version: 0.1
+# Required
+name: Open Health Stack Use Cases
+images:
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+  - 5.png
+attribution: https://developers.google.com/open-health-stack/use-cases
+tags:
+  - android
+# Optional
+author:
+description: |-
+  Open Health Stack provides building blocks for creating next-gen healthcare apps.
+
+  OHS components make it easier to adopt FHIR. You can use them separately or combine them to form the foundation of an end-to-end digital health platform.
+  - FHIR-based Android apps
+  - Enhancing privacy, leveraging SMART-on-FHIR
+  - FHIR Analytics Solutions
+  - Foundations for an end-to-end digital health solution
+  - Hybrid Architecture Example

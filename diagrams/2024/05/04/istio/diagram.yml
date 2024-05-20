@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Istio architecture
+images:
+  - 1.svg
+attribution: https://istio.io/latest/docs/ops/deployment/architecture/
+tags:
+  - istio
+  - envoy
+  - kubernetes
+# Optional
+author: Frank Budinsky
+description: |
+  An Istio service mesh is logically split into a data plane and a control plane.
+
+  The data plane is composed of a set of intelligent proxies (Envoy) deployed as sidecars. These proxies mediate and control all network communication between microservices. They also collect and report telemetry on all mesh traffic.
+
+  The control plane manages and configures the proxies to route traffic.

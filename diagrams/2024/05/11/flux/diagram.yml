@@ -1,0 +1,14 @@
+schema-version: 0.1
+# Required
+name: Flux architecture
+images:
+  - 1.png
+attribution: http://fluxxor.com/what-is-flux.html
+tags:
+  - flux
+  - frontend
+  - react
+# Optional
+author: Michelle Tilley
+description: |
+  Flux is an architecture for creating data layers in JavaScript applications. It was designed at Facebook along with the React view library. It places a focus on creating explicit and understandable update paths for your application's data, which makes tracing changes during development simpler and makes bugs easier to track down and fix.

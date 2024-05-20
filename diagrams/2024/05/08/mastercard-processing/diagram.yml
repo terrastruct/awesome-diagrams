@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Mastercard processing
+images:
+  - 1.svg
+attribution: https://developer.mastercard.com/product/mastercard-processing/
+tags:
+  - payments
+  - mastercard
+# Optional
+author:
+description: |
+  Mastercard Processing APIs cover the entire product lifecycle, from setting up a client, creating accounts, and ordering a card that can be instantly tokenized. All kinds of mobile PAYs and wearables are supported, such as Apple, Google, Samsung, Xiaomi, Fitbit, Garmin, Swatch, Card on File, and Issuer Wallet (HCE).

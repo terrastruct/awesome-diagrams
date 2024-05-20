@@ -1,0 +1,11 @@
+schema-version: 0.1
+# Required
+name: Prometheus architecture
+images:
+  - 1.png
+attribution: https://prometheus.io/docs/introduction/overview/
+tags:
+  - metrics
+# Optional
+author: Julius Volz
+description: Prometheus scrapes metrics from instrumented jobs, either directly or via an intermediary push gateway for short-lived jobs. It stores all scraped samples locally and runs rules over this data to either aggregate and record new time series from existing data or generate alerts. Grafana or other API consumers can be used to visualize the collected data.

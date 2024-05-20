@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Cloud TPU in GKE
+images:
+  - 1.webp
+attribution: https://cloud.google.com/tpu
+tags:
+  - tpu
+  - google-cloud
+# Optional
+author:
+description: |
+  Combine the power of Cloud TPUs with the flexibility and scalability of GKE to build and deploy machine learning models faster and more easily than ever before. With Cloud TPUs available in GKE, you can now have a single consistent operations environment for all your workloads, standardizing automated MLOps pipelines.

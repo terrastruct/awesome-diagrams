@@ -1,0 +1,15 @@
+schema-version: 0.1
+# Required
+name: Auth0 IdP
+images:
+  - 1.png
+attribution: https://auth0.com/docs/get-started/architecture-scenarios/multiple-organization-architecture/single-identity-provider-organizations
+tags:
+  - auth0
+  - auth
+# Optional
+author:
+description: |
+  In the Single Identity Provider (IdP) Organizations scenario, every organization that uses the Auth0 Organizations feature uses exactly one Auth0 connection. This feature allows each application to select the appropriate organization defined on the Auth0 Tenant, which will either authenticate user credentials directly or forward the authentication request to the appropriate IdP to handle.
+
+  Regardless of how credentials are processed--whether user credentials are stored in a database connection (like with Hoekstra & Associates) or are validated via an enterprise connection (like with MetaHexa Bank) or a social connection--your application behaves the same way. Leveraging the Organizations feature allows you to configure and control the experience.

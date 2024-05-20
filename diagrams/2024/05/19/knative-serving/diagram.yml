@@ -1,0 +1,14 @@
+schema-version: 0.1
+# Required
+name: Knative Serving Architecture
+images:
+  - 1.png
+  - 2.png
+attribution: https://knative.dev/docs/serving/architecture/?spm=a2c65.11461447.0.0.2f4c27480jSkYE
+tags:
+  - serverless-containers
+  - kubernetes
+  - drawio
+# Optional
+author:
+description: Knative Serving consists of several components forming the backbone of the Serverless Platform.

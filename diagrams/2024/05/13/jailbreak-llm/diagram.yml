@@ -1,0 +1,19 @@
+schema-version: 0.1
+# Required
+name: ASCII Art LLM Jailbreak
+images:
+  - 1.png
+attribution: https://arxiv.org/abs/2402.11753
+tags:
+  - llm
+  - ai
+  - ascii
+# Optional
+author: Luyao Niu
+description: |
+  Overview of ArtPrompt. ArtPrompt consists of two steps. In the first step,
+  ArtPrompt masks the safety words (e.g., “bomb") within a prompt that could
+  result in rejection from the victim LLM. In the second step, ArtPrompt
+  replaces the masked word in Step I with ASCII art. Then the masked prompt is
+  combined with the ASCII art representation to form a cloaked prompt. The
+  cloaked prompt is finally sent to the victim LLM as a jailbreak attack.

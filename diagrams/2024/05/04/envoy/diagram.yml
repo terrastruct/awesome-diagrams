@@ -1,0 +1,16 @@
+schema-version: 0.1
+# Required
+name: Envoy network topology
+images:
+  - 1.svg
+  - 2.svg
+  - 3.svg
+  - 4.svg
+attribution: https://www.envoyproxy.io/docs/envoy/latest/intro/life_of_a_request
+tags:
+  - envoy
+  - network
+# Optional
+author: htuch
+description: |
+  How a request flows through the components in a network (including Envoy) depends on the network’s topology. Envoy can be used in a wide variety of networking topologies.

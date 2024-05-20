@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: WorkOS Single Sign-on
+images:
+  - 1.avif
+attribution: https://workos.com/docs/sso
+tags:
+  - workos
+  - auth
+# Optional
+author:
+description: |
+  WorkOS SSO API acts as authentication middleware and intentionally does not handle user database management for your application. This is by design, to minimize vendor lock-in.

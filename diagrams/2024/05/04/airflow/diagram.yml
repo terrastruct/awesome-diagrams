@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Basic Airflow deployment
+images:
+  - 1.png
+attribution: https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html
+tags:
+  - airflow
+  - python
+# Optional
+author: Jarek Potiuk
+description: |
+  This is the simplest deployment of Airflow, usually operated and managed on a single machine. Such a deployment usually uses the LocalExecutor, where the scheduler and the workers are in the same Python process and the DAG files are read directly from the local filesystem by the scheduler. The webserver runs on the same machine as the scheduler. There is no triggerer component, which means that task deferral is not possible.

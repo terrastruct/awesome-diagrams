@@ -1,0 +1,14 @@
+schema-version: 0.1
+# Required
+name: Ragflow system architecture
+images:
+  - 1.png
+attribution: https://github.com/infiniflow/ragflow
+tags:
+  - llm
+  - ai
+  - rag
+# Optional
+author: KevinHuSh
+description: |
+  RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.

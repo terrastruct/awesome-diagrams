@@ -1,0 +1,14 @@
+schema-version: 0.1
+# Required
+name: Traefik Services
+images:
+  - 1.webp
+attribution: https://doc.traefik.io/traefik/routing/services/
+tags:
+  - traefik
+  - golang
+  - networking
+# Optional
+author: Jean-Baptiste Doumenjou
+description: |
+  The Traefik Services are responsible for configuring how to reach the actual services that will eventually handle the incoming requests.

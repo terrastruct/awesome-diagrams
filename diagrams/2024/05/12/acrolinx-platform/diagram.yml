@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Acrolinx Platform
+images:
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+attribution: https://support.acrolinx.com/hc/en-us/articles/10210859500818-Architecture-Diagrams
+tags:
+  - auth
+  - infrastructure
+# Optional
+author: Acrolinx team
+description: |
+  Acrolinx provides an AI service to help you write copy. These are the
+  architecture diagrams of its platform, including views for its cloud,
+  containers, scalability, and authentication.

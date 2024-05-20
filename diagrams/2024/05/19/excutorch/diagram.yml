@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: ExecuTorch Architecture
+images:
+  - 1.png
+attribution: https://pytorch.org/executorch/stable/getting-started-architecture
+tags:
+  - ai
+# Optional
+author: Svetlana Karslioglu
+description: |
+  In order to target on-device AI with diverse hardware, critical power requirements, and realtime processing needs, a single monolithic solution is not practical. Instead, a modular, layered, and extendable architecture is desired. ExecuTorch defines a streamlined workflow to prepare (export, transformation, and compilation) and execute a PyTorch program, with opinionated out-of-the-box default components and well-defined entry points for customizations. This architecture greatly improves portability, allowing engineers to use a performant lightweight, cross-platform runtime that easily integrates into different devices and platforms.

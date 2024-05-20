@@ -1,0 +1,16 @@
+schema-version: 0.1
+# Required
+name: Jenkins architecture
+images:
+  - 1.png
+attribution: https://www.jenkins.io/doc/developer/architecture/
+tags:
+  - jenkins
+  - ci/cd
+  - drawio
+# Optional
+author: Angélique Jard
+description: |
+  This dataflow represents Jenkins as a "box". The goal is to have a view of network flow that goes in and out.
+
+  This diagram is a high level view centered on Jenkins core.

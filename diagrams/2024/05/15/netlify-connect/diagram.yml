@@ -1,0 +1,11 @@
+schema-version: 0.1
+# Required
+name: Netlify Connect
+images:
+  - 1.png
+attribution: https://docs.netlify.com/connect/get-started/?connect-data-source-type=contentful
+tags:
+  - cms
+# Optional
+author:
+description: With Netlify Connect, you can integrate content from multiple sources into a single data unification layer for easy access through a GraphQL API. Data updates sync automatically to ensure your sites and other web properties always have access to the latest content, all cached at the edge.

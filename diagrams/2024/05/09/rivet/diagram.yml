@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Rivet Architecture
+images:
+  - 1.png
+attribution: https://github.com/rivet-gg/rivet
+tags:
+  - rivet
+  - figma
+# Optional
+author: Nathan Flurry
+description: |
+  Open-source solution to deploy, scale, and operate your multiplayer game.

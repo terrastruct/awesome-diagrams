@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Ultralytics YOLOv5 Architecture
+images:
+  - 1.png
+attribution: https://docs.ultralytics.com/yolov5/tutorials/architecture_description/
+tags:
+  - computer-vision
+  - ai
+# Optional
+author: Glenn Jocher
+description: |
+  YOLOv5 (v6.0/6.1) is a powerful object detection algorithm developed by Ultralytics. This article dives deep into the YOLOv5 architecture, data augmentation strategies, training methodologies, and loss computation techniques. This comprehensive understanding will help improve your practical application of object detection in various fields, including surveillance, autonomous vehicles, and image recognition.

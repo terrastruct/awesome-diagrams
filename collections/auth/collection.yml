@@ -1,0 +1,10 @@
+schema-version: 0.1
+name: Authentication flows
+diagrams:
+  - 2024/05/12/auth0
+  - 2024/05/12/google-sso
+  - 2024/05/12/okta
+  - 2024/05/12/workos
+banner:
+  image: 1.svg
+  background-color: '#EEF2FF'

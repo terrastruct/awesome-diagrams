@@ -1,0 +1,15 @@
+schema-version: 0.1
+# Required
+name: How to train your own Large Language Models
+images:
+  - 1.webp
+attribution: https://blog.replit.com/llm-training
+tags:
+  - llm
+  - replit
+  - ai
+  - google-cloud
+# Optional
+author: The AI Team @ Replit
+description: |
+  How Replit trains Large Language Models (LLMs) using Databricks, Hugging Face, and MosaicML.

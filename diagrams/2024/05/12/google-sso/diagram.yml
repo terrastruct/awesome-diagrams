@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Google SSO
+images:
+  - 1.svg
+attribution: https://cloud.google.com/architecture/identity/single-sign-on
+tags:
+  - google
+  - auth
+# Optional
+author:
+description: |
+  Cloud Identity and Google Workspace support Security Assertion Markup Language (SAML) 2.0 for single sign-on. SAML is an open standard for exchanging authentication and authorization data between a SAML IdP and SAML service providers. When you use SSO for Cloud Identity or Google Workspace, your external IdP is the SAML IdP and Google is the SAML service provider.

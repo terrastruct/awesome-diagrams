@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Terraform architecture
+images:
+  - 1.png
+attribution: https://spacelift.io/blog/terraform-architecture
+tags:
+  - iac
+  - infrastructure
+# Optional
+author: Vivekanand Rapaka
+description: |
+  An overview of Terraform, its objectives, fundamental architecture, and the workflow that encompasses the different stages of provisioning infrastructure with Terraform.

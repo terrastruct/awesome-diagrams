@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: Adyen Payments lifecycle
+images:
+  - 1.svg
+attribution: https://docs.adyen.com/account/payments-lifecycle/?tab=successful_payment_1
+tags:
+  - payments
+  - adyen
+# Optional
+author:
+description:

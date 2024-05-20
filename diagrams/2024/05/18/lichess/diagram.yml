@@ -1,0 +1,14 @@
+schema-version: 0.1
+# Required
+name: Lichess architecture
+images:
+  - 1.png
+  - 2.png
+attribution: https://github.com/lichess-org/lila/tree/master?tab=readme-ov-file
+tags:
+  - scala
+  - lucidchart
+# Optional
+author: Thibault Duplessis
+description: |
+  Diagram of lichess architecture

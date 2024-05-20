@@ -1,0 +1,16 @@
+schema-version: 0.1
+# Required
+name: Redux data flow
+images:
+  - 1.png
+attribution: https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow
+tags:
+  - react
+  - frontend
+# Optional
+author: Mark Erikson
+description: |
+  State describes the condition of the app at a specific point in time
+  The UI is rendered based on that state
+  When something happens (such as a user clicking a button), the state is updated based on what occurred
+  The UI re-renders based on the new state

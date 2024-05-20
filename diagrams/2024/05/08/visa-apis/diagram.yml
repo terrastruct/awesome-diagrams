@@ -1,0 +1,13 @@
+schema-version: 0.1
+# Required
+name: Visa APIs
+images:
+  - 1.png
+attribution: https://developer.visa.com/pages/working-with-visa-apis
+tags:
+  - payments
+  - visa
+# Optional
+author:
+description: |
+  Visa Developer Platform helps consolidate multiple partner and developer facing assets across Visa into a common platform to simplify partner connectivity. Visa’s API management features can help accelerate the pace of collaboration and innovation within Visa and between its strategic partner, by providing them with a one stop shop for API availability. The API management platform becomes an API “portal” where developers across the B2B/B2C space can efficiently leverage Visa APIs.
