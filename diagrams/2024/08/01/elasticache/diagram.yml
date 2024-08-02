@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: AWS Elasticache
+images:
+  - 1.png
+attribution: https://docs.aws.amazon.com/whitepapers/latest/scale-performance-elasticache/elasticache-for-memcached.html
+tags:
+  - cache
+  - aws
+# Optional
+author:
+description: When you deploy an ElastiCache Memcached cluster, it sits in your application as a separate tier alongside your database. As mentioned previously, Amazon ElastiCache does not directly communicate with your database tier, or indeed have any particular knowledge of your database. A simplified deployment for a web application looks similar to the following diagram.

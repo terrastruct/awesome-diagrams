@@ -1,0 +1,12 @@
+schema-version: 0.1
+# Required
+name: RocksDB
+images:
+  - 1.png
+attribution: https://github.com/facebook/rocksdb/wiki/RocksDB-Overview
+tags:
+  - facebook
+  - database
+# Optional
+author: Ramkumar Vadivelu
+description: RocksDB is a storage engine library of key-value store interface where keys and values are arbitrary byte streams. RocksDB organizes all data in sorted order and the common operations are Get(key), NewIterator(), Put(key, val), Delete(key), and SingleDelete(key).
