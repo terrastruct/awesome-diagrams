@@ -1,0 +1,30 @@
+schema-version: 0.1
+# Required
+name: 8 RAG (Retrieval Augmented Generation) Architectures
+images:
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+  - 5.png
+  - 6.png
+  - 7.png
+  - 8.png
+attribution: https://humanloop.com/blog/rag-architectures
+tags:
+  - rag
+  - retrieval-augmented-generation
+  - ai
+  - machine-learning
+  - nlp
+  - architecture
+  - llm
+  - vector-database
+  - document-retrieval
+  - humanloop
+# Optional
+author: Conor Kelly (Humanloop)
+description: |
+  Eight different RAG architecture patterns including Simple RAG, RAG with Memory, Branched RAG, HyDE, Adaptive RAG, Corrective RAG, Self-RAG, and Agentic RAG. These diagrams illustrate various approaches to implementing retrieval-augmented generation systems with different strategies for document retrieval, generation, and memory management.
+
+  The collection covers foundational RAG patterns to advanced multi-agent approaches, showing the evolution and sophistication of retrieval-augmented generation systems in modern AI applications.

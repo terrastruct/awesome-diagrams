@@ -1,0 +1,15 @@
+schema-version: 0.1
+name: Advanced RAG Architecture
+images:
+  - 1.png
+  - 2.png
+attribution: https://ugurozker.medium.com/advanced-rag-architecture-b9f8a26e2608
+tags:
+  - rag
+  - ai
+  - llm
+  - vector-database
+  - retrieval-augmented-generation
+author: Uğur Özker
+description: |
+  Two comprehensive diagrams showcasing advanced Retrieval Augmented Generation (RAG) architecture. The first diagram illustrates the fundamental RAG pipeline from raw data extraction and preparation through embedding models, vector databases, to LLM-powered answer generation. The second diagram presents an advanced RAG system with sophisticated components including query improvement techniques (RAG Fusion, HyDE), intelligent query routing (logical and semantic), multi-database support (vector, graph, relational, text-to-cypher, text-to-SQL), retrieval optimization (RAG Fusion, CRAG), and prompt engineering for enhanced generation quality.

@@ -1,0 +1,21 @@
+schema-version: 0.1
+# Required
+name: Enterprise RAG System Architecture
+images:
+  - 1.png
+  - 2.png
+attribution: https://galileo.ai/blog/mastering-rag-how-to-architect-an-enterprise-rag-system
+tags:
+  - rag
+  - ai
+  - llm
+  - enterprise
+  - architecture
+  - retrieval
+  - vector-database
+  - embeddings
+  - machine-learning
+# Optional
+author: Galileo AI
+description: |
+  Comprehensive architectural diagrams for enterprise-grade RAG (Retrieval-Augmented Generation) systems. The first diagram shows the complete architecture including input/output flows, query processing, observability components, and storage layers. The second diagram details the indexing and query processes with failure points identified in red boxes, showing the complete data flow from document ingestion through chunking, embedding, retrieval, ranking, and response generation.

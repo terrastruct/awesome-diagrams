@@ -1,0 +1,22 @@
+schema-version: 0.1
+# Required
+name: Contextual Retrieval
+images:
+  - 1.png
+  - 2.png
+attribution: https://www.anthropic.com/news/contextual-retrieval
+tags:
+  - rag
+  - embeddings
+  - retrieval
+  - machine-learning
+  - nlp
+  - contextual-retrieval
+  - anthropic
+  - claude
+# Optional
+author: Anthropic
+description: |
+  Contextual Retrieval is an innovative technique designed to improve Retrieval-Augmented Generation (RAG) systems by adding specific context to document chunks before embedding and indexing. By prepending explanatory context to each chunk, the method helps AI models more accurately retrieve and understand relevant information from large knowledge bases.
+
+  The technique involves using Claude to generate concise, chunk-specific context that explains each text segment within its broader document context. Experiments showed that Contextual Retrieval can reduce retrieval failure rates by 35-49%, with further improvements possible through additional techniques like reranking.
