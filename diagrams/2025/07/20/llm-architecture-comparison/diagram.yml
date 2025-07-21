@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: The Big LLM Architecture Comparison
+images:
+  - 1.png
+attribution: https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
+tags:
+  - llm
+  - transformer
+  - machine-learning
+  - ai
+  - architecture
+# Optional
+author: Sebastian Raschka
+description: |
+  A comprehensive visual comparison of Large Language Model (LLM) architectures from different research teams and companies, showcasing the structural variations in modern AI language models. The diagram compares architectural components across models like DeepSeek, Llama, Gemma, and others, highlighting the evolution and diversity in transformer-based architectures.
+
+  This comparison provides insights into how different organizations approach LLM design, including variations in attention mechanisms, layer configurations, and architectural innovations that contribute to model performance and efficiency.
