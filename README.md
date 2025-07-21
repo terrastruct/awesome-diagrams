@@ -1,17 +1,27 @@
-<div align="center">
-  <img src="./docs/assets/banner.png" alt="D2" />
-  <h2>
-    A collection of software architecture diagrams
-  </h2>
+# Awesome Diagrams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![ci](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml/badge.svg)](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml)
-[![license](https://img.shields.io/github/license/terrastruct/awesome-diagrams?color=9cf)](./LICENSE.txt)
+<div align="center">
+  <img src="./docs/assets/banner.png" alt="Awesome Diagrams" />
 </div>
 
-This repository is the content for
-[https://softwarediagrams.com](https://softwarediagrams.com).
+[![CI](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml/badge.svg)](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml)
 
-To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+A curated list of high quality, recent software architecture diagrams on both mature
+technologies (e.g. Redis) and frontier technologies (e.g. LLMs). They are primarily
+sourced from reputable company blogs, individual technologists, and dedicated technology
+platforms.
+
+## Contents
+
+- [Diagrams](#diagrams)
+  - [Wall](#wall)
+  - [List](#list)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Contributing
+
+To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md). Contributions are welcome!
 
 
 ## Diagrams
@@ -24,7 +34,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/8-rag-retrieval-augmented-generation-architectures">
     <img src="thumbnails/rag-architectures-humanloop.png" width="150" alt="8 RAG (Retrieval Augmented Generation) Architectures"><br/>
-    <sub><b>8 RAG (Retrieval 
+    <sub><b>8 RAG (Retrieval
 ...</b></sub>
   </a>
 </td>
@@ -37,7 +47,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/activemq-classic-architecture">
     <img src="thumbnails/activemq.png" width="150" alt="ActiveMQ Classic architecture"><br/>
-    <sub><b>ActiveMQ Classic 
+    <sub><b>ActiveMQ Classic
 ...</b></sub>
   </a>
 </td>
@@ -56,7 +66,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
   </a>
 </td>
 <td align="center" width="150">
-  <a href="https://softwarediagrams.com/diagrams/ascii-art-llm-jailbreak">
+  <a href="https://softwarediagrams.com/diagrams/ascii-art-lMlm-jailbreak">
     <img src="thumbnails/jailbreak-llm.png" width="150" alt="ASCII Art LLM Jailbreak"><br/>
     <sub><b>ASCII Art LLM Jai
 ...</b></sub>
@@ -228,7 +238,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/hnsw-algorithm-hierarchical-navigable-small-world">
     <img src="thumbnails/hnsw-algorithm.png" width="150" alt="HNSW Algorithm - Hierarchical Navigable Small World"><br/>
-    <sub><b>HNSW Algorithm - 
+    <sub><b>HNSW Algorithm -
 ...</b></sub>
   </a>
 </td>
@@ -329,7 +339,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/nginx-management-suite">
     <img src="thumbnails/nginx.png" width="150" alt="NGINX Management Suite"><br/>
-    <sub><b>NGINX Management 
+    <sub><b>NGINX Management
 ...</b></sub>
   </a>
 </td>
@@ -547,7 +557,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/weaviate-cluster-architecture">
     <img src="thumbnails/weaviate-cluster-architecture.png" width="150" alt="Weaviate Cluster Architecture"><br/>
-    <sub><b>Weaviate Cluster 
+    <sub><b>Weaviate Cluster
 ...</b></sub>
   </a>
 </td>
@@ -650,3 +660,9 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Weaviate Cluster Architecture](https://softwarediagrams.com/diagrams/weaviate-cluster-architecture)
 - [Wii U architecture](https://softwarediagrams.com/diagrams/wii-u-architecture)
 - [WorkOS Single Sign-on](https://softwarediagrams.com/diagrams/workos-single-sign-on)
+
+## License
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
