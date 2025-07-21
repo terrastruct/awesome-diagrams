@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Discord Bot Serverless Architecture
+images:
+  - 1.png
+attribution: https://www.guptaakashdeep.com/building-discord-bot-with-aws-serverless/
+tags:
+  - aws
+  - serverless
+  - lambda
+  - discord
+  - api-gateway
+# Optional
+author: Akashdeep Gupta
+description: |
+  A serverless Discord bot architecture designed to fetch recently published AWS blogs. The system uses AWS Lambda for backend processing, API Gateway for request handling, and includes components for request verification, command execution, and secure secret management.
+  
+  The architecture demonstrates key serverless benefits where you don't have to manage any server infrastructure and only pay for what you use. Components include Discord Client integration, API Gateway endpoints, Lambda functions for request verification and command execution, Secrets Manager for secure credential storage, and S3 for data persistence.
