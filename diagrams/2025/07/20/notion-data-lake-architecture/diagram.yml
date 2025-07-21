@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Notion's Data Lake Architecture
+images:
+  - 1.png
+attribution: https://www.notion.com/blog/building-and-scaling-notions-data-lake
+tags:
+  - data-lake
+  - apache-hudi
+  - kafka
+  - postgres
+  - data-engineering
+# Optional
+author: XZ Tie, Nathan Louie, Thomas Chow, Darin Im, Abhishek Modi, Wendy Jiao
+description: |
+  This diagram illustrates Notion's in-house data lake infrastructure, showing how data flows from Postgres through Debezium CDC connectors to Kafka, then to Apache Hudi, and finally stored in S3. It represents a comprehensive data pipeline for ingesting, processing, and storing Notion's rapidly growing block data.
+
+  The architecture represents a strategic approach to managing Notion's exponentially growing data, enabling scalable and efficient data processing for analytics and product development. The system handles the challenge of processing billions of blocks while maintaining data consistency and enabling real-time analytics capabilities.
