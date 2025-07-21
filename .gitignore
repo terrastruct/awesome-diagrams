@@ -5,7 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # npm
-package-lock.json
 yarn.lock
 
 # OS generated files
