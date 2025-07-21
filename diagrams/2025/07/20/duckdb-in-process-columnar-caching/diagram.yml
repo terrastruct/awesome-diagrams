@@ -17,5 +17,4 @@ tags:
   - columnar-storage
 # Optional
 author: John Kutay
-description: |
-  Architecture diagrams showing how DuckDB was integrated as the analytical backend for the control plane of Striim Developer - a serverless Stream Processing and Change Data Capture (CDC) service. The diagrams illustrate workflow processing with memory management and in-memory columnar storage structure, demonstrating how DuckDB serves as an in-process columnar cache achieving significant performance improvements.
+description: Architecture diagrams showing how DuckDB was integrated as the analytical backend for the control plane of Striim Developer - a serverless Stream Processing and Change Data Capture (CDC) service. The diagrams illustrate workflow processing with memory management and in-memory columnar storage structure, demonstrating how DuckDB serves as an in-process columnar cache achieving significant performance improvements.

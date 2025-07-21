@@ -14,7 +14,7 @@ tags:
   - microservices
   - cloud-native
 # Optional
-description: |
+description: |-
   Weaviate uses a leaderless replication architecture where all nodes can accept writes and reads from the client, which can offer better availability. The key architectural approach is a distributed system with no single point of failure, where a coordinator node routes requests to appropriate replica nodes.
 
   The system uses Raft consensus algorithm for metadata and distributed replication for data, enabling high availability across nodes with configurable replication factors and eventual consistency model.

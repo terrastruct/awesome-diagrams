@@ -13,7 +13,7 @@ tags:
   - architecture
 # Optional
 author: Azraf Al Monzim
-description: |
+description: |-
   OpenChat is a real-time, self-hosted chat server that allows users to create anonymous, scalable chat rooms. It was born out of necessity during the July protests, when internet shutdowns made communication difficult. The system uses a distributed architecture with Go servers, Redis for message routing and state management, and WebSockets for real-time communication.
-  
+
   The architecture supports horizontal scaling, spam prevention, and anonymous user interactions. It uses Redis pub/sub for message distribution across server instances, implements rate limiting for spam prevention, and provides scalable WebSocket connection management for reliable real-time communication even in restricted network environments.

@@ -14,7 +14,7 @@ tags:
   - microservices
 # Optional
 author: Erwan de Lépinau
-description: |
+description: |-
   As part of the development efforts on the Mesh Delivery technology at Lumen, this architecture addresses the challenges of implementing a resilient and scalable backend capable of solving WebRTC signaling issues. The solution demonstrates how to build a distributed WebSocket server architecture that can automatically scale on Kubernetes to handle high-throughput, real-time communication requirements.
 
   The architecture showcases a comprehensive approach to distributed WebSocket management, including load balancing strategies, session affinity handling, horizontal pod autoscaling, and inter-service communication patterns. It provides practical insights into building production-ready WebSocket infrastructure that can scale to millions of concurrent connections while maintaining reliability and performance.

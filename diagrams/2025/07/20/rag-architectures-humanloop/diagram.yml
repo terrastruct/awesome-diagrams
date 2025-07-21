@@ -24,7 +24,7 @@ tags:
   - humanloop
 # Optional
 author: Conor Kelly (Humanloop)
-description: |
+description: |-
   Eight different RAG architecture patterns including Simple RAG, RAG with Memory, Branched RAG, HyDE, Adaptive RAG, Corrective RAG, Self-RAG, and Agentic RAG. These diagrams illustrate various approaches to implementing retrieval-augmented generation systems with different strategies for document retrieval, generation, and memory management.
 
   The collection covers foundational RAG patterns to advanced multi-agent approaches, showing the evolution and sophistication of retrieval-augmented generation systems in modern AI applications.

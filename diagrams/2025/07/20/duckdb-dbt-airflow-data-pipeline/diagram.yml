@@ -17,5 +17,4 @@ tags:
   - orchestration
 # Optional
 author: Nazar Khimin
-description: |
-  A comprehensive data pipeline implementation using DuckDB for data processing, DBT for transformations with Medallion architecture (bronze → silver → gold), and Airflow 3 for orchestration. The architecture demonstrates modern ELT patterns, containerized deployment with Docker Compose, and includes the complete workflow from source data ingestion through data quality checks to final PostgreSQL loading.
+description: A comprehensive data pipeline implementation using DuckDB for data processing, DBT for transformations with Medallion architecture (bronze → silver → gold), and Airflow 3 for orchestration. The architecture demonstrates modern ELT patterns, containerized deployment with Docker Compose, and includes the complete workflow from source data ingestion through data quality checks to final PostgreSQL loading.

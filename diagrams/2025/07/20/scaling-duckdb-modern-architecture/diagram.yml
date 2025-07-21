@@ -14,5 +14,4 @@ tags:
   - data-engineering
 # Optional
 author: Gagan Taneja
-description: |
-  A distributed architecture for scaling DuckDB beyond single-node limitations, showing how to horizontally scale DuckDB using independent instances with shared data storage, JDBC connection pooling, and distributed query load. This reference architecture demonstrates how to maintain DuckDB's performance advantages while scaling beyond single-node constraints.
+description: A distributed architecture for scaling DuckDB beyond single-node limitations, showing how to horizontally scale DuckDB using independent instances with shared data storage, JDBC connection pooling, and distributed query load. This reference architecture demonstrates how to maintain DuckDB's performance advantages while scaling beyond single-node constraints.

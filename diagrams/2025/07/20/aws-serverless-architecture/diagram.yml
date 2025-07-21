@@ -12,7 +12,7 @@ tags:
   - dynamodb
 # Optional
 author: Rashi Agarwal
-description: |
+description: |-
   A serverless architecture demonstrating a three-tier approach using AWS services, where a static website hosted on S3 interacts with Lambda functions and DynamoDB to process user feedback, with services like API Gateway and CloudFront enabling scalable, event-driven interactions.
-  
+
   The architecture shows interconnected AWS services representing presentation, logic, and data tiers in a serverless web application context, illustrating how modern cloud-native applications can be built without managing server infrastructure.

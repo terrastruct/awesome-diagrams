@@ -12,7 +12,7 @@ tags:
   - orchestration
 # Optional
 author: Jaymit Bhoraniya
-description: |
+description: |-
   An AWS Serverless architecture demonstrating Step Functions orchestrating multiple Lambda functions through task steps. The workflow uses a state machine with different states like Choice and Task, allowing dynamic routing and processing of mathematical operations (add, subtract, multiply) with validation.
-  
+
   AWS Step Functions is a serverless orchestration service that lets you combine AWS Lambda functions and other AWS services to build complex workflows. The diagram shows how state machines can coordinate distributed components and microservices using visual workflows, enabling developers to build and update applications quickly.
