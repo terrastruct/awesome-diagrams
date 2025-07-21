@@ -1,10 +1,8 @@
-# Awesome Diagrams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 <div align="center">
   <img src="./docs/assets/banner.png" alt="Awesome Diagrams" />
 </div>
 
-[![CI](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml/badge.svg)](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml)
+# Awesome Diagrams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of high quality, recent software architecture diagrams on both mature
 technologies (e.g. Redis) and frontier technologies (e.g. LLMs). They are primarily
@@ -16,13 +14,6 @@ platforms.
 - [Diagrams](#diagrams)
   - [Wall](#wall)
   - [List](#list)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Contributing
-
-To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md). Contributions are welcome!
-
 
 ## Diagrams
 
@@ -661,8 +652,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md). Contribu
 - [Wii U architecture](https://softwarediagrams.com/diagrams/wii-u-architecture)
 - [WorkOS Single Sign-on](https://softwarediagrams.com/diagrams/workos-single-sign-on)
 
-## License
+## Contributing
 
-[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md). Contributions are welcome!

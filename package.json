@@ -1,0 +1,19 @@
+{
+  "name": "awesome-diagrams",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img src=\"./docs/assets/banner.png\" alt=\"Awesome Diagrams\" /> </div>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "awesome-lint README.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-lint": "^1.2.0"
+  }
+}
