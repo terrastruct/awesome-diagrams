@@ -1,0 +1,19 @@
+schema-version: 0.1
+# Required
+name: Pinecone Global API
+images:
+  - 1.png
+  - 2.png
+attribution: https://www.pinecone.io/blog/global-api/
+tags:
+  - api
+  - distributed-systems
+  - cloud-architecture
+  - global-infrastructure
+  - microservices
+# Optional
+author: Gareth Jones, Jack Pertschuk
+description: |
+  We developed a new global control plane API — api.pinecone.io. The global API eliminates the need for per environment endpoints and allows users to access resources from multiple environments with the same API key.
+  
+  The architecture shows the evolution from regional API architecture with separate endpoints to a unified global API with control plane that manages resources across multiple cloud environments with low latency.

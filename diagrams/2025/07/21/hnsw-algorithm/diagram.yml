@@ -1,0 +1,20 @@
+schema-version: 0.1
+# Required
+name: HNSW Algorithm - Hierarchical Navigable Small World
+images:
+  - 1.png
+  - 2.png
+  - 3.png
+attribution: https://medium.com/@amallya0523/hnsw-algorithm-efficiently-searching-vector-databases-9276a934393d
+tags:
+  - hnsw
+  - vector-database
+  - nearest-neighbor
+  - graph-algorithm
+  - machine-learning
+# Optional
+author: Amallya
+description: |
+  The Hierarchical Navigable Small World (HNSW) algorithm is a graph-based approximate nearest neighbor search technique that efficiently searches vector databases using a multi-layered graph structure. HNSW creates hierarchical layers where upper layers have fewer nodes with longer connections, while lower layers contain all nodes with shorter connections.
+  
+  The algorithm works by probabilistically assigning nodes to different layers (similar to skip lists), enabling logarithmic time complexity for approximate nearest neighbor search. This makes HNSW particularly effective for high-dimensional vector similarity search, overcoming the curse of dimensionality that affects traditional search methods.
