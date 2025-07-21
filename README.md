@@ -16,6 +16,8 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Diagrams
 
+### Wall
+
 <div align="center">
 <table>
 <tr>
@@ -59,6 +61,21 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
   </a>
 </td>
 <td align="center" width="150">
+  <a href="https://softwarediagrams.com/diagrams/aws-serverless-architecture">
+    <img src="thumbnails/aws-serverless-architecture.png" width="150" alt="AWS Serverless Architecture"><br/>
+    <sub><b>AWS Serverless Ar
+...</b></sub>
+  </a>
+</td>
+<td align="center" width="150">
+  <a href="https://softwarediagrams.com/diagrams/aws-step-functions-serverless-orchestration">
+    <img src="thumbnails/aws-step-functions-serverless-orchestration.png" width="150" alt="AWS Step Functions Serverless Orchestration"><br/>
+    <sub><b>AWS Step Function
+...</b></sub>
+  </a>
+</td>
+</tr><tr>
+<td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/basic-airflow-deployment">
     <img src="thumbnails/airflow.png" width="150" alt="Basic Airflow deployment"><br/>
     <sub><b>Basic Airflow dep
@@ -72,7 +89,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ...</b></sub>
   </a>
 </td>
-</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/cloud-tpu-in-gke">
     <img src="thumbnails/tpu.png" width="150" alt="Cloud TPU in GKE"><br/>
@@ -83,6 +99,13 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
   <a href="https://softwarediagrams.com/diagrams/dbt-cloud-architecture">
     <img src="thumbnails/dbt.png" width="150" alt="dbt Cloud Architecture"><br/>
     <sub><b>dbt Cloud Archite
+...</b></sub>
+  </a>
+</td>
+<td align="center" width="150">
+  <a href="https://softwarediagrams.com/diagrams/discord-bot-serverless-architecture">
+    <img src="thumbnails/discord-bot-serverless-architecture.png" width="150" alt="Discord Bot Serverless Architecture"><br/>
+    <sub><b>Discord Bot Serve
 ...</b></sub>
   </a>
 </td>
@@ -106,6 +129,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ...</b></sub>
   </a>
 </td>
+</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/executorch-architecture">
     <img src="thumbnails/excutorch.png" width="150" alt="ExecuTorch Architecture"><br/>
@@ -126,7 +150,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ...</b></sub>
   </a>
 </td>
-</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/flutter-architectural-overview">
     <img src="thumbnails/flutter.png" width="150" alt="Flutter Architectural Overview"><br/>
@@ -159,6 +182,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
     <sub><b>Istio architecture</b></sub>
   </a>
 </td>
+</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/jenkins-architecture">
     <img src="thumbnails/jenkins.png" width="150" alt="Jenkins architecture"><br/>
@@ -179,7 +203,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ...</b></sub>
   </a>
 </td>
-</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/kafka-streams">
     <img src="thumbnails/kafka.png" width="150" alt="Kafka Streams"><br/>
@@ -201,11 +224,19 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
   </a>
 </td>
 <td align="center" width="150">
+  <a href="https://softwarediagrams.com/diagrams/lambda-architecture-for-big-data">
+    <img src="thumbnails/lambda-architecture-big-data.png" width="150" alt="Lambda Architecture for Big Data"><br/>
+    <sub><b>Lambda Architectu
+...</b></sub>
+  </a>
+</td>
+<td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/lichess-architecture">
     <img src="thumbnails/lichess.png" width="150" alt="Lichess architecture"><br/>
     <sub><b>Lichess architecture</b></sub>
   </a>
 </td>
+</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/localai-architecture">
     <img src="thumbnails/localai.png" width="150" alt="LocalAI Architecture"><br/>
@@ -232,7 +263,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
     <sub><b>Netlify Connect</b></sub>
   </a>
 </td>
-</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/nginx-management-suite">
     <img src="thumbnails/nginx.png" width="150" alt="NGINX Management Suite"><br/>
@@ -247,12 +277,20 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
   </a>
 </td>
 <td align="center" width="150">
+  <a href="https://softwarediagrams.com/diagrams/notions-data-lake-architecture">
+    <img src="thumbnails/notion-data-lake-architecture.png" width="150" alt="Notions Data Lake Architecture"><br/>
+    <sub><b>Notions Data Lake
+...</b></sub>
+  </a>
+</td>
+<td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/okta-iam-architecture">
     <img src="thumbnails/okta.png" width="150" alt="Okta IAM architecture"><br/>
     <sub><b>Okta IAM architec
 ...</b></sub>
   </a>
 </td>
+</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/open-health-stack-use-cases">
     <img src="thumbnails/open-health-stack.png" width="150" alt="Open Health Stack Use Cases"><br/>
@@ -287,7 +325,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ...</b></sub>
   </a>
 </td>
-</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/redux-data-flow">
     <img src="thumbnails/redux.png" width="150" alt="Redux data flow"><br/>
@@ -306,6 +343,7 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
     <sub><b>RocksDB</b></sub>
   </a>
 </td>
+</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/scylladb-ring-architecture">
     <img src="thumbnails/scylladb.png" width="150" alt="ScyllaDB Ring Architecture"><br/>
@@ -340,7 +378,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ...</b></sub>
   </a>
 </td>
-</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/strapi-architecture">
     <img src="thumbnails/strapi.png" width="150" alt="Strapi Architecture"><br/>
@@ -358,6 +395,14 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
   <a href="https://softwarediagrams.com/diagrams/terraform-enterprise-aws-architecture">
     <img src="thumbnails/terraform-enterprise.png" width="150" alt="Terraform Enterprise AWS architecture"><br/>
     <sub><b>Terraform Enterpr
+...</b></sub>
+  </a>
+</td>
+</tr><tr>
+<td align="center" width="150">
+  <a href="https://softwarediagrams.com/diagrams/the-big-llm-architecture-comparison">
+    <img src="thumbnails/llm-architecture-comparison.png" width="150" alt="The Big LLM Architecture Comparison"><br/>
+    <sub><b>The Big LLM Archi
 ...</b></sub>
   </a>
 </td>
@@ -394,7 +439,6 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
     <sub><b>Visa APIs</b></sub>
   </a>
 </td>
-</tr><tr>
 <td align="center" width="150">
   <a href="https://softwarediagrams.com/diagrams/wii-u-architecture">
     <img src="thumbnails/wii-u.png" width="150" alt="Wii U architecture"><br/>
@@ -408,12 +452,73 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ...</b></sub>
   </a>
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 </div>
+
+### List
+
+- [Acrolinx Platform](https://softwarediagrams.com/diagrams/acrolinx-platform)
+- [ActiveMQ Classic architecture](https://softwarediagrams.com/diagrams/activemq-classic-architecture)
+- [Adyen Payments lifecycle](https://softwarediagrams.com/diagrams/adyen-payments-lifecycle)
+- [ASCII Art LLM Jailbreak](https://softwarediagrams.com/diagrams/ascii-art-llm-jailbreak)
+- [Auth0 IdP](https://softwarediagrams.com/diagrams/auth0-idp)
+- [AWS Elasticache](https://softwarediagrams.com/diagrams/aws-elasticache)
+- [AWS Serverless Architecture](https://softwarediagrams.com/diagrams/aws-serverless-architecture)
+- [AWS Step Functions Serverless Orchestration](https://softwarediagrams.com/diagrams/aws-step-functions-serverless-orchestration)
+- [Basic Airflow deployment](https://softwarediagrams.com/diagrams/basic-airflow-deployment)
+- [Brex Cash infrastructure](https://softwarediagrams.com/diagrams/brex-cash-infrastructure)
+- [Cloud TPU in GKE](https://softwarediagrams.com/diagrams/cloud-tpu-in-gke)
+- [dbt Cloud Architecture](https://softwarediagrams.com/diagrams/dbt-cloud-architecture)
+- [Discord Bot Serverless Architecture](https://softwarediagrams.com/diagrams/discord-bot-serverless-architecture)
+- [Docker architecture](https://softwarediagrams.com/diagrams/docker-architecture)
+- [Docusaurus Architecture](https://softwarediagrams.com/diagrams/docusaurus-architecture)
+- [Envoy network topology](https://softwarediagrams.com/diagrams/envoy-network-topology)
+- [ExecuTorch Architecture](https://softwarediagrams.com/diagrams/executorch-architecture)
+- [Faiss Architecture](https://softwarediagrams.com/diagrams/faiss-architecture)
+- [Firebase architecture](https://softwarediagrams.com/diagrams/firebase-architecture)
+- [Flutter Architectural Overview](https://softwarediagrams.com/diagrams/flutter-architectural-overview)
+- [Flux architecture](https://softwarediagrams.com/diagrams/flux-architecture)
+- [Google SSO](https://softwarediagrams.com/diagrams/google-sso)
+- [How to train your own Large Language Models](https://softwarediagrams.com/diagrams/how-to-train-your-own-large-language-models)
+- [Istio architecture](https://softwarediagrams.com/diagrams/istio-architecture)
+- [Jenkins architecture](https://softwarediagrams.com/diagrams/jenkins-architecture)
+- [Jitsi Meet architecture](https://softwarediagrams.com/diagrams/jitsi-meet-architecture)
+- [K8sGPT Operator Architecture](https://softwarediagrams.com/diagrams/k8sgpt-operator-architecture)
+- [Kafka Streams](https://softwarediagrams.com/diagrams/kafka-streams)
+- [Knative Serving Architecture](https://softwarediagrams.com/diagrams/knative-serving-architecture)
+- [Kubernetes cluster architecture](https://softwarediagrams.com/diagrams/kubernetes-cluster-architecture)
+- [Lambda Architecture for Big Data](https://softwarediagrams.com/diagrams/lambda-architecture-for-big-data)
+- [Lichess architecture](https://softwarediagrams.com/diagrams/lichess-architecture)
+- [LocalAI Architecture](https://softwarediagrams.com/diagrams/localai-architecture)
+- [Mastercard processing](https://softwarediagrams.com/diagrams/mastercard-processing)
+- [MongoDBs Application data platform](https://softwarediagrams.com/diagrams/mongodbs-application-data-platform)
+- [Netlify Connect](https://softwarediagrams.com/diagrams/netlify-connect)
+- [NGINX Management Suite](https://softwarediagrams.com/diagrams/nginx-management-suite)
+- [Nomad architecture](https://softwarediagrams.com/diagrams/nomad-architecture)
+- [Notions Data Lake Architecture](https://softwarediagrams.com/diagrams/notions-data-lake-architecture)
+- [Okta IAM architecture](https://softwarediagrams.com/diagrams/okta-iam-architecture)
+- [Open Health Stack Use Cases](https://softwarediagrams.com/diagrams/open-health-stack-use-cases)
+- [Prometheus architecture](https://softwarediagrams.com/diagrams/prometheus-architecture)
+- [Pytorch architecture](https://softwarediagrams.com/diagrams/pytorch-architecture)
+- [RabbitMQ architecture](https://softwarediagrams.com/diagrams/rabbitmq-architecture)
+- [Ragflow system architecture](https://softwarediagrams.com/diagrams/ragflow-system-architecture)
+- [Redux data flow](https://softwarediagrams.com/diagrams/redux-data-flow)
+- [Rivet Architecture](https://softwarediagrams.com/diagrams/rivet-architecture)
+- [RocksDB](https://softwarediagrams.com/diagrams/rocksdb)
+- [ScyllaDB Ring Architecture](https://softwarediagrams.com/diagrams/scylladb-ring-architecture)
+- [Self-hosted Retool architecture](https://softwarediagrams.com/diagrams/self-hosted-retool-architecture)
+- [Sentry architecture](https://softwarediagrams.com/diagrams/sentry-architecture)
+- [Slack real-time messaging](https://softwarediagrams.com/diagrams/slack-real-time-messaging)
+- [Steampipe Architecture](https://softwarediagrams.com/diagrams/steampipe-architecture)
+- [Strapi Architecture](https://softwarediagrams.com/diagrams/strapi-architecture)
+- [Terraform architecture](https://softwarediagrams.com/diagrams/terraform-architecture)
+- [Terraform Enterprise AWS architecture](https://softwarediagrams.com/diagrams/terraform-enterprise-aws-architecture)
+- [The Big LLM Architecture Comparison](https://softwarediagrams.com/diagrams/the-big-llm-architecture-comparison)
+- [Traefik Enterprise architecture](https://softwarediagrams.com/diagrams/traefik-enterprise-architecture)
+- [Traefik Services](https://softwarediagrams.com/diagrams/traefik-services)
+- [Ultralytics YOLOv5 Architecture](https://softwarediagrams.com/diagrams/ultralytics-yolov5-architecture)
+- [Vercel deployment and lifecycle](https://softwarediagrams.com/diagrams/vercel-deployment-and-lifecycle)
+- [Visa APIs](https://softwarediagrams.com/diagrams/visa-apis)
+- [Wii U architecture](https://softwarediagrams.com/diagrams/wii-u-architecture)
+- [WorkOS Single Sign-on](https://softwarediagrams.com/diagrams/workos-single-sign-on)

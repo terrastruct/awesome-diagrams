@@ -1,0 +1,17 @@
+schema-version: 0.1
+# Required
+name: Lambda Architecture for Big Data
+images:
+  - 1.png
+attribution: https://en.wikipedia.org/wiki/Lambda_architecture
+tags:
+  - lambda-architecture
+  - big-data
+  - batch-processing
+  - stream-processing
+  - data-engineering
+# Optional
+description: |
+  Lambda architecture is a data-processing architecture designed to handle massive quantities of data by taking advantage of both batch and stream-processing methods. It aims to balance latency, throughput, and fault-tolerance by using batch processing for comprehensive data views and real-time stream processing for immediate data insights.
+  
+  The architecture consists of three layers: Batch Layer for processing large volumes with high accuracy, Speed Layer for real-time processing with low latency, and Serving Layer for indexing and serving queries. This approach enables systems to handle both historical analysis and real-time decision making in big data environments.
