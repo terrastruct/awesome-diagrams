@@ -1,0 +1,21 @@
+schema-version: 0.1
+# Required
+name: DuckDB DBT Airflow Data Pipeline
+images:
+  - 1.png
+attribution: https://nazar-khimin.medium.com/data-pipeline-with-duckdb-dbt-airflow-3-poc-with-theory-5673809d8c3a
+tags:
+  - data-engineering
+  - etl-elt
+  - duckdb
+  - dbt
+  - airflow
+  - medallion-architecture
+  - data-pipeline
+  - postgresql
+  - docker
+  - orchestration
+# Optional
+author: Nazar Khimin
+description: |
+  A comprehensive data pipeline implementation using DuckDB for data processing, DBT for transformations with Medallion architecture (bronze → silver → gold), and Airflow 3 for orchestration. The architecture demonstrates modern ELT patterns, containerized deployment with Docker Compose, and includes the complete workflow from source data ingestion through data quality checks to final PostgreSQL loading.
