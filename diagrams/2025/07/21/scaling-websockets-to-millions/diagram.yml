@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Scaling WebSockets to Millions
+images:
+  - 1.png
+attribution: https://dyte.io/blog/scaling-websockets-to-millions/
+tags:
+  - websockets
+  - distributed-systems
+  - message-broker
+  - rabbitmq
+  - scaling
+# Optional
+author: Akshit Sadana
+description: |
+  The WebSocket layer at Dyte consists of 3 layers, called edge, message broker, and hub. A high level overview of how these layers interact with each other shows a comprehensive architecture for scaling WebSocket connections to millions of concurrent users.
+  
+  Edge is responsible for maintaining WebSocket connections with clients, and communicating with the message broker to send/receive messages to the hub. The message broker is responsible for routing messages between the edge and the hub using RabbitMQ as the messaging system. Hub is responsible for processing the message and broadcasting it to the required WebSocket connection.

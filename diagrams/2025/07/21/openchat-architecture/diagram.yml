@@ -1,0 +1,19 @@
+schema-version: 0.1
+# Required
+name: OpenChat's Architecture - Scaling Real-Time Chat with Go, Redis, and WebSockets
+images:
+  - 1.webp
+  - 2.webp
+attribution: https://monzim.com/blogs/scaling-realtime-chatapp-with-go-redis-and-websocket
+tags:
+  - go
+  - redis
+  - websocket
+  - real-time
+  - architecture
+# Optional
+author: Azraf Al Monzim
+description: |
+  OpenChat is a real-time, self-hosted chat server that allows users to create anonymous, scalable chat rooms. It was born out of necessity during the July protests, when internet shutdowns made communication difficult. The system uses a distributed architecture with Go servers, Redis for message routing and state management, and WebSockets for real-time communication.
+  
+  The architecture supports horizontal scaling, spam prevention, and anonymous user interactions. It uses Redis pub/sub for message distribution across server instances, implements rate limiting for spam prevention, and provides scalable WebSocket connection management for reliable real-time communication even in restricted network environments.
