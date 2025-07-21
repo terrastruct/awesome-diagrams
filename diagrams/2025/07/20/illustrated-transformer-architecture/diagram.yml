@@ -1,0 +1,20 @@
+schema-version: 0.1
+# Required
+name: The Illustrated Transformer
+images:
+  - 1.png
+  - 2.png
+  - 3.png
+attribution: https://jalammar.github.io/illustrated-transformer/
+tags:
+  - transformer
+  - neural-networks
+  - attention-mechanism
+  - machine-learning
+  - nlp
+# Optional
+author: Jay Alammar
+description: |
+  The Transformer is a neural network architecture for machine translation that uses attention mechanisms to process input sequences. It consists of an encoder component (stacked encoders) and a decoder component (stacked decoders), with each encoder and decoder having self-attention and feed-forward neural network layers.
+  
+  This diagram illustrates the complete Transformer architecture, showing how the model processes input through encoder and decoder stacks, utilizing multi-head attention mechanisms and position encodings to understand and generate sequences. The architecture revolutionized natural language processing by enabling parallel processing and capturing long-range dependencies more effectively than previous sequential models.
