@@ -1,0 +1,18 @@
+schema-version: 0.1
+# Required
+name: Google Gemini Transformer Architecture
+images:
+  - 1.png
+attribution: https://medium.com/@falconeer7777/unveiling-the-magic-behind-google-gemini-a-glimpse-into-transformer-architecture-1c6beda94452
+tags:
+  - transformer
+  - attention-mechanism
+  - neural-networks
+  - nlp
+  - google-gemini
+# Optional
+author: theBloggingMachine
+description: |-
+  At the core of Gemini lies the Transformer architecture, a revolutionary neural network design specifically optimized for natural language processing tasks. Unlike traditional recurrent neural networks (RNNs) that process information sequentially, the Transformer employs a parallel approach, allowing it to analyze the entire context of a sentence simultaneously. This parallel processing significantly increases efficiency and accuracy, enabling Gemini to handle complex tasks with remarkable ease.
+
+  The Transformer architecture consists of building blocks that work together to process and understand natural language, making it the foundation for powerful large language models like Google Gemini.

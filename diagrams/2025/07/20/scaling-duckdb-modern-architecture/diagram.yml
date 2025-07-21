@@ -1,0 +1,17 @@
+schema-version: 0.1
+# Required
+name: Scaling DuckDB Modern Architecture
+images:
+  - 1.png
+attribution: https://medium.com/@tanejagagan/scaling-duckdb-a-modern-architecture-for-analytical-data-applications-49e5a8dcd24a
+tags:
+  - duckdb
+  - architecture
+  - distributed-systems
+  - analytics
+  - performance
+  - scaling
+  - data-engineering
+# Optional
+author: Gagan Taneja
+description: A distributed architecture for scaling DuckDB beyond single-node limitations, showing how to horizontally scale DuckDB using independent instances with shared data storage, JDBC connection pooling, and distributed query load. This reference architecture demonstrates how to maintain DuckDB's performance advantages while scaling beyond single-node constraints.

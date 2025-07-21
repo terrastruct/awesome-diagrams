@@ -172,6 +172,8 @@ no_image_found=0
 
 # Start the grid container
 cat >> "$TEMP_FILE" << 'EOF'
+### Wall
+
 <div align="center">
 <table>
 <tr>
@@ -245,7 +247,16 @@ cat >> "$TEMP_FILE" << 'EOF'
 </tr>
 </table>
 </div>
+
+### List
+
 EOF
+
+# Add list entries
+while IFS='|' read -r name path; do
+    url_slug=$(name_to_slug "$name")
+    _echo "- [$name](https://softwarediagrams.com/diagrams/$url_slug)" >> "$TEMP_FILE"
+done < "$diagrams_file.sorted"
 
 
 # Replace the original README with the updated one

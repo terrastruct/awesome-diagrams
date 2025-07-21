@@ -1,0 +1,19 @@
+schema-version: 0.1
+# Required
+name: Scalable WebSocket Architecture
+images:
+  - 1.png
+  - 2.png
+attribution: https://blog.hathora.dev/scalable-websocket-architecture/
+tags:
+  - websockets
+  - scalable-architecture
+  - real-time
+  - load-balancing
+  - multiplayer-gaming
+# Optional
+author: Harsh Pandey
+description: |-
+  Two architectural approaches for building scalable WebSocket applications. The first diagram illustrates a traditional Socket.IO architecture using load balancers, multiple server instances, and a message broker (like Redis or RabbitMQ) for routing messages across servers and maintaining global state through a shared database.
+
+  The second diagram demonstrates an alternative approach using a stateful router that groups users by room and localizes data processing. This architecture reduces cross-server communication by keeping room-specific data local to individual WebSocket servers, potentially improving performance for applications like multiplayer games or real-time collaboration tools.
