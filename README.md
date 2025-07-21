@@ -1,17 +1,26 @@
-<div align="center">
-  <img src="./docs/assets/banner.png" alt="D2" />
-  <h2>
-    A collection of software architecture diagrams
-  </h2>
+# Awesome Diagrams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![ci](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml/badge.svg)](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml)
-[![license](https://img.shields.io/github/license/terrastruct/awesome-diagrams?color=9cf)](./LICENSE.txt)
+> A curated list of software architecture diagrams - comprehensive collection of system design illustrations.
+
+<div align="center">
+  <img src="./docs/assets/banner.png" alt="Awesome Diagrams" />
 </div>
 
-This repository is the content for
-[https://softwarediagrams.com](https://softwarediagrams.com).
+[![CI](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml/badge.svg)](https://github.com/terrastruct/awesome-diagrams/actions/workflows/ci.yml)
 
-To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+This repository is the content for [https://softwarediagrams.com](https://softwarediagrams.com).
+
+## Contents
+
+- [Diagrams](#diagrams)
+  - [Wall](#wall)
+  - [List](#list)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Contributing
+
+To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md). Contributions are welcome!
 
 
 ## Diagrams
@@ -650,3 +659,9 @@ To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Weaviate Cluster Architecture](https://softwarediagrams.com/diagrams/weaviate-cluster-architecture)
 - [Wii U architecture](https://softwarediagrams.com/diagrams/wii-u-architecture)
 - [WorkOS Single Sign-on](https://softwarediagrams.com/diagrams/workos-single-sign-on)
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Terrastruct](https://terrastruct.com) has waived all copyright and related or neighboring rights to this work.
