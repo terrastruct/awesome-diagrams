@@ -4,10 +4,7 @@
 
 # Awesome Diagrams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of high quality, recent software architecture diagrams on both mature
-technologies (e.g. Redis) and frontier technologies (e.g. LLMs). They are primarily
-sourced from reputable company blogs, individual technologists, and dedicated technology
-platforms.
+A curated list of high quality, recent software architecture diagrams on both mature technologies (e.g. Redis) and frontier technologies (e.g. LLMs). They are primarily sourced from reputable company blogs, individual technologists, and dedicated technology platforms.
 
 ## Contents
 
