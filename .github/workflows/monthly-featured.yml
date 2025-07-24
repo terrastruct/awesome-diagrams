@@ -1,0 +1,20 @@
+name: Monthly Featured Diagram
+on:
+  schedule:
+    # Run on the 1st of every month at 00:00 UTC
+    - cron: 0 0 1 * *
+  workflow_dispatch: # Allow manual triggering
+jobs:
+  create-featured:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      - name: Create featured diagram for current month
+        run: "# Get current year and month\nYEAR=$(date +%Y)\nMONTH=$(date +%m)\n\n# Create featured directory if it doesn't exist\nmkdir -p \"featured/${YEAR}\"\n\n# Run the script to select a random diagram\nSELECTED_DIAGRAM=$(./scripts/select-random-diagram.sh)\n\nif [ -n \"$SELECTED_DIAGRAM\" ]; then\n  # Create the featured YAML file\n  echo \"schema-version: 0.1\" > \"featured/${YEAR}/${MONTH}.yml\"\n  echo \"diagram: ${SELECTED_DIAGRAM}\" >> \"featured/${YEAR}/${MONTH}.yml\"\n  \n  echo \"Created featured/${YEAR}/${MONTH}.yml with diagram: ${SELECTED_DIAGRAM}\"\n  \n  # Commit the new file\n  git add \"featured/${YEAR}/${MONTH}.yml\"\n  git commit -m \"Add featured diagram for ${YEAR}-${MONTH}\"\n  git push\nelse\n  echo \"No available diagrams found\"\n  exit 1\nfi"
