@@ -650,5 +650,6 @@ A curated list of high quality, recent software architecture diagrams on both ma
 - [WorkOS Single Sign-on](https://softwarediagrams.com/diagrams/workos-single-sign-on)
 
 ## Contributing
+- [GenAI DrawIO Creator](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) - Generate architecture diagrams using natural language with AI. Apache 2.0 license.
 
 To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md). Contributions are welcome!
