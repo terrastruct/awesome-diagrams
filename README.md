@@ -651,4 +651,6 @@ A curated list of high quality, recent software architecture diagrams on both ma
 
 ## Contributing
 
+- [text2diagram](https://text2everything.vip) - AI-powered chat-to-diagram tool that turns natural language into editable Mermaid diagrams and mind maps. Free to use with no signup required.
+
 To contribute a diagram, please see [CONTRIBUTING.md](CONTRIBUTING.md). Contributions are welcome!
